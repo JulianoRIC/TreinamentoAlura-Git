@@ -3,7 +3,7 @@
 Exemplo de linha de comando:
 
 ```
-git commit -m "message"
+node app.js
 ```
 
 Status: Em andamento.
