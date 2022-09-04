@@ -14,3 +14,7 @@ console.log("commit adicional so para depois voltar para o commit anterior")
 //fazer as outra alterações 
 
 //git restore nao funciona com essa versao do git --> atualizar
+
+//criar branch: git checkout nome
+//ver branches: git branch
+//mudar de branch: git checkout nome_branch ou git  switch nome_branch
