@@ -10,3 +10,7 @@ console.log("mudança feita no repo local, favor atualizar via git push o repo r
 
 console.log("commit adicional so para depois voltar para o commit anterior")
 
+//quando mudar de HEAD com git checkout --> voltar para a branch main --> git checkout main e daí
+//fazer as outra alterações 
+
+//git restore nao funciona com essa versao do git --> atualizar
