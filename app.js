@@ -18,3 +18,7 @@ console.log("commit adicional so para depois voltar para o commit anterior")
 //criar branch: git checkout nome
 //ver branches: git branch
 //mudar de branch: git checkout nome_branch ou git  switch nome_branch
+
+//juntar duas branches:
+//muda para branch principal e da o comando
+//git merge desenvolvimento
