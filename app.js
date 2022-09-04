@@ -8,4 +8,5 @@ console.log("mudança feita no repo local, favor atualizar via git push o repo r
 
 //para atualizar remoto --> git add app.js --> git  commit -m "blablabla" --> git push
 
+console.log("commit adicional so para depois voltar para o commit anterior")
 
